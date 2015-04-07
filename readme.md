@@ -13,6 +13,15 @@
 * A git repo is based on v0.6.3 and ported to QT5
 
    All svn change record before v0.6.3 is not migrated to git.
+   
+## Winfried Simon's reply on license issue
+
+I transferred the QHexEdit2 to https://github.com/Simsys/qhexedit2 and I will maintain it there.
+
+The code is already licensed under LGPL 2.1, so I do not understand, what you want to change.
+
+See: https://github.com/Simsys/qhexedit2/blob/master/src/license.txt
+
 
 ## Description of QHexEdit 
 (original  by Winfried Simon 2010)
